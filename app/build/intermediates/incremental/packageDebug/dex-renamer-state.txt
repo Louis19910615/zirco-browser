@@ -1,7 +1,0 @@
-#Tue May 09 17:38:33 CST 2017
-base.0=/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7bafed59705b4840d882027973f338bb81f3d8ea
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_05a886d6cb7bc5e7a6e8030aebfe756957ba9848/classes.dex
-base.1=/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_05a886d6cb7bc5e7a6e8030aebfe756957ba9848
-file.0=/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7bafed59705b4840d882027973f338bb81f3d8ea/classes.dex
