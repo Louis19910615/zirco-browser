@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/louis/Desktop/zirco-browser1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="685ce1390796417335fd4cb2b0a9491a5236ce7f">
+        <dex dex="/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_05a886d6cb7bc5e7a6e8030aebfe756957ba9848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louis/Desktop/zirco-browser1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2107a287f21107186f9fefdc57133432a90d057d">
+        <dex dex="/Users/louis/Desktop/zirco-browser1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7bafed59705b4840d882027973f338bb81f3d8ea/classes.dex" />
+    </item>
+
+</items>
